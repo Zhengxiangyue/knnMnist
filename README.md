@@ -1,2 +1,2 @@
 ## knnMnist
-Result is shown [here](https://zhengxiangyue.github.io/knnMnistBitversion.pdf) .
+Result is shown <a href="https://zhengxiangyue.github.io/knnMnistBitversion.pdf" target="_blank">here</a>.
